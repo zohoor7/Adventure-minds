@@ -28,7 +28,7 @@ def send_telegram_alert(message: str):
 
 # تحميل YOLO
 
-model = YOLO("yolov8n.pt")  # تأكد أن الملف موجود في نفس المجلد
+model = YOLO("yolov8n.pt")  
 
 # فتح الكاميرا
 
@@ -114,3 +114,4 @@ cap.release()
 if out:
     out.release()
 cv2.destroyAllWindows()
+
