@@ -74,7 +74,7 @@ Press **Q** to stop the system.
 https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates
 ```
 
-4. Put them in `detection.py`:
+4. Put them in `GuardianEye AI.py`:
 
 ```python
 TELEGRAM_TOKEN = "YOUR_BOT_TOKEN"
