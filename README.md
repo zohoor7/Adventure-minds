@@ -57,7 +57,7 @@ GuardianEye-AI/
 Run the main script:
 
 ```bash
-python detection.py
+python GuardianEye AI.py
 ```
 
 Press **Q** to stop the system.
