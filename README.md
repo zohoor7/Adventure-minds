@@ -45,7 +45,7 @@ GuardianEye-AI/
 │
 ├── intruders/      # Saved intruder images
 ├── recordings/     # Videos recorded during detection
-├── detection.py    # Main script
+├── GuardianEye AI.py    # Main script
 ├── requirements.txt
 └── README.md
 ```
